@@ -1,12 +1,12 @@
-## Portfólio com Streamlit
+# Portfólio com Streamlit
 
 Este projeto consiste na criação de uma página de portfólio utilizando Streamlit, um framework Python para desenvolvimento de aplicações web de forma simples e eficiente.
 
-# Descrição do Projeto
+## Descrição do Projeto
 
 O portfólio criado permite a navegação entre diferentes seções como: Início, Projetos, Dashboards e Contato. A estrutura foi desenvolvida com modularização e uso de um ambiente virtual(-m venv) para garantir a compatibilidade das dependências, sem trazer conflitos com os pacotes já instalados anteriormente no vscode.
 
-# Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
 - Python
 
@@ -14,7 +14,7 @@ O portfólio criado permite a navegação entre diferentes seções como: Iníci
 
 - Virtual Studio Code
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
 1. Configuração do Ambiente Virtual
 
